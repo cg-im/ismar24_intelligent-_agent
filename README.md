@@ -1,2 +1,2 @@
-# ismar24_intelligent_agent
+# ISMAR24_intelligent_agent
 Coming soon. 
