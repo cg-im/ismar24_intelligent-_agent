@@ -1,4 +1,4 @@
-## Toward User-Aware Interactive Virtual Agents: Generative Multi-Modal Agent Behaviors in VR
+## Toward User-Aware Interactive Virtual Agents: Generative Multi-Modal<br> Agent Behaviors in VR
 
 ![Teaser](https://github.com/user-attachments/assets/4a66fddc-3107-4a74-947b-680b0c8d460d)
 
