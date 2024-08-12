@@ -21,4 +21,6 @@ underscored the authentic nature of our virtual agents’ interactions
 and the heightened user engagement during VR interaction.
 
 [Source](https://github.com/cg-im/ismar24_intelligent_agent)
-Coming soon. 
+
+Fill [this form](https://forms.gle/SoRcmLBgWxQqiyoo8) to request the data.
+ 
