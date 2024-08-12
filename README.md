@@ -1,6 +1,6 @@
 ## Toward User-Aware Interactive Virtual Agents: Generative Multi-Modal Agent Behaviors in VR
 
-![Teaser](https://github.com/user-attachments/assets/dc6258fd-ac35-46d4-842c-19c9f163728b)
+![Teaser](https://github.com/user-attachments/assets/4a66fddc-3107-4a74-947b-680b0c8d460d)
 
 ### Abstract 
 Virtual agents serve as a vital interface within XR platforms. How-
