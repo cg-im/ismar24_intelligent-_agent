@@ -28,7 +28,7 @@ Proceedings of 23rd IEEE International Symposium on Mixed and Augmented Reality 
 
 Fill [this form](https://forms.gle/SoRcmLBgWxQqiyoo8) to request the dataset used in this work. 
 
-Citation 
+BibTeX
 ```
 @INPROCEEDINGS{virtualAgentBehaviours,
   author={Bhasura S. Gunawardhana, Yunxiang Zhang, Qi Sun, and Zhigang Deng},
