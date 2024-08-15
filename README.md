@@ -20,13 +20,13 @@ regarding user-centric criteria. Thorough analyses of our results
 underscored the authentic nature of our virtual agents’ interactions
 and the heightened user engagement during VR interaction.
 
-[Source Code](https://github.com/cg-im/ismar24_intelligent_agent)
+[Source Code](https://github.com/cg-im/ismar24_intelligent_agent_1/)
 
 Fill [this form](https://forms.gle/SoRcmLBgWxQqiyoo8) to request the dataset used in this work. 
 
 **Full References:** 
 
-Toward Socially-Aware Interactive Virtual Agents: Generative Multi-Modal Agent Behaviors in VR
+Toward Socially-Aware Interactive Virtual Agents: Generative Multi-Modal Agent Behaviors in VR.
 Bhasura S. Gunawardhana, Yunxiang Zhang, Qi Sun, and Zhigang Deng,
 Proceedings of 23rd IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2024, Seattle, USA, Oct 21- 25, 2024.
 
